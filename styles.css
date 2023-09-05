@@ -1,0 +1,59 @@
+/* Завдання 1 */
+.text-box h3 {
+  color: pink;
+}
+
+.text-box #greycol {
+  color: grey;
+}
+
+.text-box div p {
+  color: red;
+}
+
+.text-box p.yellow {
+  color: yellow;
+}
+/* Завдання 2 */
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+  padding: 5px;
+}
+
+li:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+li:hover {
+  background-color: #ffcc00;
+}
+
+ul:first-child {
+  border: 2px solid #333;
+}
+
+ul:last-child {
+  border: 2px solid #333;
+}
+
+ul:nth-child(3n) {
+  font-weight: bold;
+}
+
+ul:nth-last-child(2) {
+  font-style: italic;
+}
+
+ul:only-child {
+  background-color: #99ff99;
+}
