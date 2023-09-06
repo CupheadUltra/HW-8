@@ -1,5 +1,5 @@
 /* Завдання 1 */
-.text-box h3 {
+.pink {
   color: pink;
 }
 
@@ -13,6 +13,9 @@
 
 .text-box p.yellow {
   color: yellow;
+}
+.green {
+  color: green;
 }
 /* Завдання 2 */
 .container {
